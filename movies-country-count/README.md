@@ -2,7 +2,7 @@
 En este proyecto se encontran ejemplo en los que se ha trabajado con un dataset de peliculas.
 
 ## Dataset
-El dataset se puede descargar de: (movies dataset)[https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset]
+El dataset se puede descargar de: [movies dataset](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
 
 ## Compilacion del proyecto
 Para compilar el proyecto
