@@ -70,4 +70,4 @@ test-integracion/
 
 #IntelliJ
 .idea/
-/movies-country-count/movies-country-count.iml
+.iml
