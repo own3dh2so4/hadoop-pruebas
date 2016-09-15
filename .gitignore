@@ -67,3 +67,6 @@ test-integracion/
 
 # Code Recommenders
 .recommenders/
+
+#IntelliJ
+.idea/
