@@ -13,8 +13,22 @@ mvn install
 ## Ejecución del proyecto
 Para probar el proyecto hay que diferenciar entre los diferentes ejecicios
 
+### Contador total de peliculas
+Ejecucion:
+```
+hadoop jar hadoop-movies-examples.jar es.own3dh2so4.hadoop.movie.totalcount.MovieTotalCountDriver <inputFolder> <outputFolder>
+```
+Ejemplo:
+```
+hadoop jar hadoop-movies-examples.jar es.own3dh2so4.hadoop.movie.totalcount.MovieTotalCountDriver in/movies out/movies/count
+```
+
 ### Contador peliculas por pais
 Ejecucion:
 ```
-hadoop jar hadoop-movies-examples.jar es.own3dh2so4.hadoop.movie.MovieCountryCountDriver inputFolder outputFolder
+hadoop jar hadoop-movies-examples.jar es.own3dh2so4.hadoop.movie.countrycount.MovieCountryCountDriver <inputFolder> <outputFolder>
+```
+Ejemplo:
+```
+hadoop jar hadoop-movies-examples.jar es.own3dh2so4.hadoop.movie.countrycount.MovieCountryCountDriver in/movies out/movies/count
 ```
