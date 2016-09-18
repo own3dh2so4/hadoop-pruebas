@@ -71,3 +71,7 @@ test-integracion/
 #IntelliJ
 .idea/
 *.iml
+
+#Datos de prueba
+in/
+out/
