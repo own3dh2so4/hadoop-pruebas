@@ -1,7 +1,8 @@
-package es.own3dh2so4.hadoop.movie;
+package es.own3dh2so4.hadoop.movie.countrycount;
 
 import java.io.IOException;
 
+import es.own3dh2so4.hadoop.movie.MovieParser;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;

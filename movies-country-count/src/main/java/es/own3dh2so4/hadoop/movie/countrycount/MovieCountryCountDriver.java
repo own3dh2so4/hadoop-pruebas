@@ -1,4 +1,4 @@
-package es.own3dh2so4.hadoop.movie;
+package es.own3dh2so4.hadoop.movie.countrycount;
 
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
